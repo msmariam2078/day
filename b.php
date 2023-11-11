@@ -15,7 +15,7 @@ $a=array(array("a" => 70 , "b" => 80 , "c" => 90),
 
 
 //_________________________________________________
-$array=array(10,20,30,40,50,60,70);
+$array=array(10,20,30);
 
 $count=count($array);
 foreach($array as $sub){
